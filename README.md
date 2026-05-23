@@ -52,4 +52,4 @@ https://medium.com/@shaikruhulameen1/complete-machine-learning-workflow-and-life
 
 # Author
 
-Khaja Mainuddin
+Shaik Ruhulameen
